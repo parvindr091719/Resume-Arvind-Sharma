@@ -40,12 +40,12 @@ section{
     display: block;
     margin: auto;
     border: solid rgb(194, 193, 193) 5px;
-    border-radius: 90px;
-    width: 70%;
+    border-radius: 30%;
+    width: 60%;
 }
 .name{
     font-size: 1.2rem;
-    font-weight: 610;
+    font-weight: 700;
     text-align: center;
     text-transform: uppercase;
     padding: 0.8rem;
