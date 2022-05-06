@@ -78,8 +78,8 @@ section{
     padding-bottom: 0.5rem;
 }
 .progress-bar{
-    border: solid 3px rgb(6, 145, 226);
-    height: 5px;
+    border: solid 1px white;
+    height: 4px;
     background-color: white;
 }
 .right-main-content{
